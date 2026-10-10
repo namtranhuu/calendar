@@ -45,3 +45,10 @@ pip install -r requirements.txt
 # Chạy mã sinh tệp ICS
 python amlich.py
 ```
+
+## Legal
+
+- [Privacy Policy](https://namtranhuu.github.io/privacy-policy/)
+- [Terms of Use](https://namtranhuu.github.io/privacy-policy/terms-of-use)
+
+Please review these documents before using the software. Third-party services and their own terms may also apply.
